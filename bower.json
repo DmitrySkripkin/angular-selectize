@@ -5,6 +5,6 @@
     "./dist/angular-selectize.js"
   ],
   "dependencies": {
-    "selectize": ">=0.12.1"
+    "selectize": "https://github.com/DmitrySkripkin/selectize.js.git#4d7f1c9c57ea5cfefdb796ccdc47774c8b1205de"
   }
 }
